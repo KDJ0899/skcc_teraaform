@@ -1,1 +1,1 @@
-"# skcc_teraaform" 
+# azure-vmss
